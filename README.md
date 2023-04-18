@@ -1,5 +1,5 @@
 Natural Language Processing<br>
---------------------------
+---------------------------
 Codes, datasets, and explanations for some basic natural language tasks and models. <br>
 
 This repository is a set of 5 tutorials which provide a basic knowledge about NLP, and applying it to text to get results without needing a deep mathematical knowledge of the working behind the models. NLTK, Keras and sklearn are the main libraries used in the tutorials. Each folder contains the datasets and a Jupyter Notebook for that tutorial. I've also written detailed Medium articles to explain the code in the Notebooks, which are linked below. <br>
